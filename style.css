@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+
+}
+h1 h2{
+    color: rgb(0, 55, 255);
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-image: auto;
+}
+a{
+    color:aqua;
+
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: skyblue;
+}
+ul {
+    list-style-type: square;
+}
